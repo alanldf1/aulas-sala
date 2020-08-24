@@ -32,7 +32,7 @@ a {
 }
 
 .column-3 {
-	padding: 33.33%;
+	width: 33.33%;
 }
 
 .column-6 {
@@ -41,4 +41,94 @@ a {
 
 .column-12 {
 	width: 100%;
+}
+
+nav {
+	width: 100%;
+	overflow: hidden;
+	background-color: #333;
+	position: fixed;
+}
+
+nav .logo {
+	float: left;
+	color: #f2f2f2;
+	text-align: center;
+	padding: 14px 16px;
+}
+
+nav a {
+	float: right;
+	display: block;
+	color: #f2f2f2;
+	text-align: center;
+	padding: 14px 16px;
+}
+
+nav a:hover {
+	background-color: #1498c3;
+}
+
+main section.banner{
+	width: 100%;
+	height: 596px;
+	background-image: url(../img/img1.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center center; 
+}
+
+main section.banner h2 {
+	width: 100%;
+	color: #fff;
+	float: left;
+	margin-top: 250px;
+	text-shadow: 2px 2px 5px #333;
+}
+
+main section.banner p {
+	width: 100%;
+	color: #fff;
+	text-align: center;
+	float: left;
+	margin-top: 10px;
+	text-shadow: 2px 2px 5px #333;
+}
+
+main section.servicos {
+	width: 100%;
+}
+
+main section.servicos .column .imagem {
+	height: 500px;
+	box-shadow: 2px 2px 5px #aaa;
+}
+
+main section.servicos .column .imagem:hover{
+	-webkit-filter: grayscale(100%);
+	-moz-filter: grayscale(100%);
+	-ms-filter: grayscale(100%);
+	-o-filter: grayscale(100%);
+	filter: grayscale(100%);
+}
+
+main section.servicos .column #imagem1 {
+	background-image: url(../img/img3.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center center;
+}
+
+main section.servicos .column #imagem2 {
+	background-image: url(../img/img4.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center center;
+}
+
+main section.servicos .column #imagem3 {
+	background-image: url(../img/img5.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center center;
 }
