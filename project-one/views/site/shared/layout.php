@@ -33,11 +33,12 @@
 
 		<script type="text/javascript">
 			var URL = "<?php echo $url; ?>";
-			var helpers = {}
+			var Helpers = {};
 		</script>
 		<script type="text/javascript" src="<?php echo $url; ?>/assets/libs/jquery/jquery-3.4.1.min.js"></script>
 		<script type="text/javascript" src="<?php echo $url; ?>/assets/libs/popper/popper.min.js"></script>
 		<script type="text/javascript" src="<?php echo $url; ?>/assets/libs/bootstrap/js/bootstrap.min.js"></script>
+		<script type="text/javascript" src="<?php echo $url; ?>/assets/js/site/layout.js"></script>
 		
 	</body>
 </html>

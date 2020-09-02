@@ -10,11 +10,11 @@
     <div class="cover-container d-flex w-100 h-100 p-3 mx-auto flex-column">
   <header class="masthead mb-auto">
     <div class="inner">
-      <h3 class="masthead-brand">Cover</h3>
+      <h3 class="masthead-brand" style="color: white;">Cover</h3>
       <nav class="nav nav-masthead justify-content-center">
-        <a class="nav-link active" href="#">Home</a>
-        <a class="nav-link" href="#">Features</a>
-        <a class="nav-link" href="#">Contact</a>
+        <a class="nav-link active" href="#" style="color: red;">Home</a>
+        <a class="nav-link" href="#" style="color: red;">Features</a>
+        <a class="nav-link" href="#" style="color: red;">Contact</a>
       </nav>
     </div>
   </header>
