@@ -18,4 +18,10 @@ class SiteController extends Controller
 
 	}
 
+	public function contact () 
+	{
+		$this->setLayout('site/shared/layout.php');
+		$this->view('site/contact/contact-ind.php');
+	}
+
 }

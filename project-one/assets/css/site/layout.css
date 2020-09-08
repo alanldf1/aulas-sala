@@ -1,5 +1,5 @@
 header {
-	background-color: #222;
+	background-color: #dfbb00;
 	min-height: 53.64px;
 }
 
@@ -10,13 +10,21 @@ header a {
 
 header a:hover {
 	text-decoration: none;
+	background-color: #333;
 }
 
 header .links a:hover{
-	background-color: lightgray;
+	background-color: #333;
 	border-radius: 5px; 
-	color: #333 !important;
+	color: gold !important;
 }
+
+footer {
+	background-color: #222;
+}
+
+
+
 
 /*Responsivo*/
 @media (max-width: 767px){

@@ -15,6 +15,7 @@
 		<title>Project One</title>
 		<link rel="stylesheet" type="text/css" href="<?php echo $url; ?>/assets/libs/bootstrap/css/bootstrap.min.css">
 		<link rel="stylesheet" type="text/css" href="<?php echo $url; ?>/assets/css/site/layout.css">
+		<link rel="stylesheet" type="text/css" href="<?php echo $url; ?>/assets/css/site/home.css"></link>
 		
 	</head>
 	<body>

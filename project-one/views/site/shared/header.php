@@ -13,9 +13,9 @@
 
 	<!-- Links -->
 	<div class="links">
-		<a href="#" class="text-light d-block float-right">Home </a>
+		<a href="<?php echo $url ?>/" class="text-light d-block float-right">Home </a>
 		<a href="#" class="text-light d-block float-right">Quem somos </a>
-		<a href="#" class="text-light d-block float-right">Contato </a>
+		<a href="<?php echo $url; ?>/views/site/contact/contact-ind.php" class="text-light d-block float-right">Contato </a>
 	</div>
 
 </div>
