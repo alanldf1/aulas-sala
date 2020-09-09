@@ -7,6 +7,12 @@
 	background-repeat: no-repeat;
 	color: #333;
 	text-decoration: underline;
-	text-shadow: 2px 2px 5px #333;
+	text-shadow: 2px 2px 12px #333;
 	padding-top: 150px;
+}
+
+.home#content-home .about {
+	background-color: #fff714;
+
+
 }

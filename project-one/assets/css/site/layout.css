@@ -1,14 +1,16 @@
 header {
-	background-color: #dfbb00;
+	background-color: #fff714;
 	min-height: 53.64px;
 }
 
 header a {
 	text-align: center;
 	padding: 15px;
+	height: 180%;
 }
 
 header a:hover {
+	border-radius: 5px;
 	text-decoration: none;
 	background-color: #333;
 }
@@ -16,11 +18,32 @@ header a:hover {
 header .links a:hover{
 	background-color: #333;
 	border-radius: 5px; 
-	color: gold !important;
+	color: #fff714 !important;
+}
+
+header .fas {
+	color: #333;
+	font-size: 150%;
+}
+
+
+header a:hover .fas {
+	color: #fff714;
 }
 
 footer {
 	background-color: #222;
+}
+footer .fab {
+	color: white;
+	font-size: 250%;
+	margin: 10px 15px;
+}
+
+footer .far {
+	color: white;
+	font-size: 250%;
+	margin: 0px 15px 10px 15px;
 }
 
 

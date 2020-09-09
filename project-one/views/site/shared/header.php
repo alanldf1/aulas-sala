@@ -2,8 +2,10 @@
 <div class="container">
 	
 	<!-- Logo -->
-	<div class="float-left pt-3">
-		<a href="#" class="text-light">Logo</a>
+	<div class="float-left d-block pt-3" id="logo">
+		<a href="<?php echo $url; ?>/" class="text-dark">
+			<i class="fas fa-torii-gate"></i>
+		</a>
 	</div>
 
 	<!-- Hamburguer -->
@@ -13,9 +15,9 @@
 
 	<!-- Links -->
 	<div class="links">
-		<a href="<?php echo $url ?>/" class="text-light d-block float-right">Home </a>
-		<a href="#" class="text-light d-block float-right">Quem somos </a>
-		<a href="<?php echo $url; ?>/views/site/contact/contact-ind.php" class="text-light d-block float-right">Contato </a>
+		<a href="<?php echo $url ?>/" class="text-dark d-block float-right">Home </a>
+		<a href="#" class="text-dark d-block float-right">Quem somos </a>
+		<a href="<?php echo $url; ?>/contato" class="text-dark d-block float-right">Contato </a>
 	</div>
 
 </div>
