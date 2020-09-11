@@ -10,8 +10,10 @@
 
 // rotas normais
 $commonRoutes = array(
-	'/'               => 'SiteController/index',
-	'contato'         => 'SiteController/contact',
+	'/'				=> 'SiteController/index',
+	'about'			=> 'SiteController/about',
+	'contato'		=> 'SiteController/contact',
+	'posts'			=> 'SiteController/posts',
 );
 
 // rotas POST

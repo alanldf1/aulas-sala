@@ -20,13 +20,13 @@
 			<a href="#" class="text-decoration-none">
 				<i class="fab fa-whatsapp"></i>
 			</a>
-			<a href="#" class="text-decoration-none">
+			<a href="https://www.facebook.com/alan.desouza.92560" class="text-decoration-none">
 				<i class="fab fa-facebook" ></i><br>
 			</a>
-			<a href="#" class="text-decoration-none">
-				<i class="fab fa-pinterest"></i>
+			<a href="https://twitter.com/A_Wedjat" class="text-decoration-none">
+				<i class="fab fa-twitter"></i>
 			</a>
-			<a href="#" class="text-decoration-none">
+			<a href="https://www.instagram.com/logalan_souza/?hl=pt-br" class="text-decoration-none">
 				<i class="fab fa-instagram"></i>
 			</a>
 		</div>	

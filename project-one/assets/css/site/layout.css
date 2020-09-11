@@ -1,11 +1,13 @@
+/*Header*/
+
 header {
 	background-color: #fff714;
-	min-height: 53.64px;
+	min-height: 51px;
 }
 
 header a {
 	text-align: center;
-	padding: 15px;
+	padding: 13px;
 	height: 180%;
 }
 
@@ -13,6 +15,10 @@ header a:hover {
 	border-radius: 5px;
 	text-decoration: none;
 	background-color: #333;
+}
+
+header #logo {
+	padding-top: 12px; 
 }
 
 header .links a:hover{
@@ -30,6 +36,8 @@ header .fas {
 header a:hover .fas {
 	color: #fff714;
 }
+
+/* Footer */
 
 footer {
 	background-color: #222;
@@ -72,5 +80,17 @@ footer .far {
 		text-align: right;
 		width: 100%;
 		float: none!important;
+	}
+
+	footer a {
+		width: 100%;
+		text-align: center;
+		display: block;
+	}
+
+	footer h3 {
+		padding-top: 2.5rem; 
+		width: 100%;
+		text-align: center;
 	}
 }
