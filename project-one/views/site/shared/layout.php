@@ -45,7 +45,7 @@
 		<script type="text/javascript" src="<?php echo $url; ?>/assets/libs/jquery/jquery-3.4.1.min.js"></script>
 		<script type="text/javascript" src="<?php echo $url; ?>/assets/libs/popper/popper.min.js"></script>
 		<script type="text/javascript" src="<?php echo $url; ?>/assets/libs/bootstrap/js/bootstrap.min.js"></script>
-		<script rel="stylesheet" type="text/css" href="<?php echo $url; ?>/assets/libs/sweetalert2/dist/sweetalert2.min.js"></script>
+		<script type="text/javascript" src="<?php echo $url; ?>/assets/libs/sweetalert2/dist/sweetalert2.all.min.js"></script>
 		<script type="text/javascript" src="<?php echo $url; ?>/assets/js/site/layout.js"></script>
 		<script type="text/javascript" src="<?php echo $url; ?>/assets/js/site/contact.js"></script>
 
