@@ -1,0 +1,13 @@
+C:\xampp\htdocs\Alan_Sou\aulas-sala\aulaCSharp\ProjetoCSharp\ProjetoCSharp\bin\Debug\netcoreapp3.1\ProjetoCSharp.exe
+C:\xampp\htdocs\Alan_Sou\aulas-sala\aulaCSharp\ProjetoCSharp\ProjetoCSharp\bin\Debug\netcoreapp3.1\ProjetoCSharp.deps.json
+C:\xampp\htdocs\Alan_Sou\aulas-sala\aulaCSharp\ProjetoCSharp\ProjetoCSharp\bin\Debug\netcoreapp3.1\ProjetoCSharp.runtimeconfig.json
+C:\xampp\htdocs\Alan_Sou\aulas-sala\aulaCSharp\ProjetoCSharp\ProjetoCSharp\bin\Debug\netcoreapp3.1\ProjetoCSharp.runtimeconfig.dev.json
+C:\xampp\htdocs\Alan_Sou\aulas-sala\aulaCSharp\ProjetoCSharp\ProjetoCSharp\bin\Debug\netcoreapp3.1\ProjetoCSharp.dll
+C:\xampp\htdocs\Alan_Sou\aulas-sala\aulaCSharp\ProjetoCSharp\ProjetoCSharp\bin\Debug\netcoreapp3.1\ProjetoCSharp.pdb
+C:\xampp\htdocs\Alan_Sou\aulas-sala\aulaCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\netcoreapp3.1\ProjetoCSharp.csprojAssemblyReference.cache
+C:\xampp\htdocs\Alan_Sou\aulas-sala\aulaCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\netcoreapp3.1\ProjetoCSharp.AssemblyInfoInputs.cache
+C:\xampp\htdocs\Alan_Sou\aulas-sala\aulaCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\netcoreapp3.1\ProjetoCSharp.AssemblyInfo.cs
+C:\xampp\htdocs\Alan_Sou\aulas-sala\aulaCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\netcoreapp3.1\ProjetoCSharp.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\Alan_Sou\aulas-sala\aulaCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\netcoreapp3.1\ProjetoCSharp.dll
+C:\xampp\htdocs\Alan_Sou\aulas-sala\aulaCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\netcoreapp3.1\ProjetoCSharp.pdb
+C:\xampp\htdocs\Alan_Sou\aulas-sala\aulaCSharp\ProjetoCSharp\ProjetoCSharp\obj\Debug\netcoreapp3.1\ProjetoCSharp.genruntimeconfig.cache
