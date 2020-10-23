@@ -23,6 +23,8 @@ namespace mvcproject.Controllers
             return View();
         }
 
+        [Route("privacidade")]
+
         public IActionResult Privacy()
         {
             return View();

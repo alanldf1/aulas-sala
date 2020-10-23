@@ -4,4 +4,30 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Remove="routes\**" />
+    <Compile Remove="Views\NovaPasta\**" />
+    <Content Remove="routes\**" />
+    <Content Remove="Views\NovaPasta\**" />
+    <EmbeddedResource Remove="routes\**" />
+    <EmbeddedResource Remove="Views\NovaPasta\**" />
+    <None Remove="routes\**" />
+    <None Remove="Views\NovaPasta\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Remove="appstart\Class.cs" />
+    <Compile Remove="Controllers\Class.cs" />
+    <Compile Remove="Controllers\news.cs" />
+    <Compile Remove="Controllers\noticias.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation" Version="3.1.9" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="appstart\" />
+  </ItemGroup>
+
 </Project>
