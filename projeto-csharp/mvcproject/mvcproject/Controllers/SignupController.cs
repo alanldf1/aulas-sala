@@ -9,18 +9,18 @@ using mvcproject.Models;
 
 namespace mvcproject.Controllers
 {
-    public class GamesController : Controller
+    public class SignupController : Controller
     {
-        private readonly ILogger<GamesController> _logger;
+        private readonly ILogger<SignupController> _logger;
 
-        public GamesController(ILogger<GamesController> logger)
+        public SignupController(ILogger<SignupController> logger)
         {
             _logger = logger;
         }
 
-        [Route("jogos")]
+        [Route("Cadastro")]
 
-        public IActionResult Games()
+        public IActionResult Signup()
         {
             return View();
         }

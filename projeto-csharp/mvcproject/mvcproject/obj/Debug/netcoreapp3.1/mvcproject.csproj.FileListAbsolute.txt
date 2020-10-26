@@ -353,3 +353,4 @@ C:\xampp\htdocs\Alan_Sou\aulas-sala\projeto-csharp\mvcproject\mvcproject\obj\Deb
 C:\xampp\htdocs\Alan_Sou\aulas-sala\projeto-csharp\mvcproject\mvcproject\obj\Debug\netcoreapp3.1\mvcproject.MvcApplicationPartsAssemblyInfo.cache
 C:\xampp\htdocs\Alan_Sou\aulas-sala\projeto-csharp\mvcproject\mvcproject\obj\Debug\netcoreapp3.1\Razor\Views\News\News.cshtml.g.cs
 C:\xampp\htdocs\Alan_Sou\aulas-sala\projeto-csharp\mvcproject\mvcproject\obj\Debug\netcoreapp3.1\Razor\Views\Games\Games.cshtml.g.cs
+C:\xampp\htdocs\Alan_Sou\aulas-sala\projeto-csharp\mvcproject\mvcproject\obj\Debug\netcoreapp3.1\Razor\Views\Signup\Signup.cshtml.g.cs

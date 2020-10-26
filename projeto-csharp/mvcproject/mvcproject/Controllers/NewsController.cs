@@ -18,11 +18,6 @@ namespace mvcproject.Controllers
             _logger = logger;
         }
 
-        public IActionResult Index()
-        {
-            return View();
-        }
-
         [Route("noticias")]
 
         public IActionResult News()
