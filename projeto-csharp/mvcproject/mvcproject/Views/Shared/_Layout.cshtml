@@ -11,35 +11,32 @@
     <link rel="stylesheet" type="text/css" href="~/lib/fontawesome/css/solid.min.css">
     <link rel="stylesheet" type="text/css" href="~/lib/fontawesome/css/regular.min.css">
     <link href="https://fonts.googleapis.com/css2?family=Staatliches&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Grenze+Gotisch:wght@500&display=swap" rel="stylesheet">
 </head>
 <body>
     <header>
-        <nav class=" navbar-expand-sm navbar-toggleable-sm box-shadow">
+        <nav class=" navbar-nav navbar-toggleable-sm box-shadow">
             <div class="container">
+                <aside class=" float-left mr-0 nav-torii">Torii Games</aside>
                 <div class="float-left d-block mr-3" id="logo">
-                    <a href="~/home" class="text-danger">
+                    <a href="~/home" class="text-danger ">
                         @*<i class="fas fa-ankh"></i>*@
                         <i class="fas fa-torii-gate"></i>
                     </a>
                 </div>
 
-                <div>
-                    <ul class="navbar-nav flex-grow-1">
-                        <li class="nav-item">
-                            <a class="nav-link d-block float-left" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link d-block float-left" asp-area="" asp-controller="Home" asp-action="Privacy">Privacidade</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link d-block float-left" asp-area="" asp-controller="News" asp-action="News">Notícias</a>
-                        <li class="nav-item">
-                            <a class="nav-link d-block float-left" asp-area="" asp-controller="Games" asp-action="Games">Jogos</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link d-block float-right" id="cadastro-nav" asp-area="" asp-controller="Signup" asp-action="Signup">Cadastre-se</a>
-                        </li>
-                    </ul>
+                <!-- Hamburguer -->
+                <div class="d-none float-right" id="hamburg">
+                    <img src="~/img/hamb.png">
+                </div>
+
+                <div class="links">
+                        
+                        <a class="nav-link d-block float-left" asp-area="" asp-controller="Home" asp-action="Index">Home</a>                   
+                        <a class="nav-link d-block float-left" asp-area="" asp-controller="Home" asp-action="Privacy">Privacidade</a>                       
+                        <a class="nav-link d-block float-left" asp-area="" asp-controller="News" asp-action="News">Notícias</a>                      
+                        <a class="nav-link d-block float-left" asp-area="" asp-controller="Games" asp-action="Games">Jogos</a>
+                        <a class="nav-link d-block float-right" id="cadastro-nav" asp-area="" asp-controller="Signup" asp-action="Signup">Cadastre-se</a>
                 </div>
             </div>
         </nav>
@@ -53,7 +50,7 @@
     <footer class="footer text-muted">
         <div class="container">
             <div class="text-center text-danger">
-                &copy; 2020 - mvcproject - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+                &copy; 2020 - ToriiGames - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
             </div>
         </div>
     </footer>

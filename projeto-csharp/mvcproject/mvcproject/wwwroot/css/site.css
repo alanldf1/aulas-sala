@@ -20,10 +20,22 @@ a {
 
 #logo {
     padding-top: 20px;
+    padding-right: 35px;
 }
 
 .navbar-nav {
-    margin-left: 100px;
+    height: 70px;
+}
+
+.nav-torii {
+    color: #dc3545;
+    font-family: 'Grenze Gotisch', cursive;
+    text-align: center;
+    padding: 20px;
+    margin-left: -50px;
+    height: 100%;
+    border-bottom: 2px solid transparent;
+    display: inline-block;
 }
 
 .nav-link {
@@ -174,4 +186,35 @@ nav-a {
 
 .card__info a {
     color: #fdca40;
+}
+
+/* Responsivo */
+@media (max-width: 767px) {
+
+    header #hamburg {
+        display: block !important;
+    }
+
+        header #hamburg img {
+            width: 52px;
+            height: 47px;
+            margin: 3px 0;
+            margin-right: -5px;
+        }
+
+    header .links {
+        display: none;
+        padding-top: 2.5rem;
+    }
+
+        header .links a {
+            text-align: right;
+            width: 100%;
+            float: none !important;
+        }
+
+    card-home {
+        width: 100%;
+        position: absolute;
+    }
 }
